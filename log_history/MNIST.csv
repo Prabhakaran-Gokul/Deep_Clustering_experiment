@@ -1,0 +1,37 @@
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-03 04:05:26
+iter 0," acc, nmi, ri = (0.85947, 0.81066, 0.0)", loss:0.00000, n_changed_assignment:70000, time:4266.170
+iter 1," acc, nmi, ri = (0.92404, 0.84548, 0.01731)", loss:0.01731, n_changed_assignment:7839, time:4290.611
+iter 2," acc, nmi, ri = (0.93374, 0.86564, 0.01939)", loss:0.01939, n_changed_assignment:1908, time:4309.388
+iter 3," acc, nmi, ri = (0.9419, 0.87891, 0.01464)", loss:0.01464, n_changed_assignment:1909, time:4330.650
+iter 4," acc, nmi, ri = (0.94711, 0.88554, 0.0095)", loss:0.00950, n_changed_assignment:1439, time:4345.140
+iter 5," acc, nmi, ri = (0.94934, 0.89012, 0.02091)", loss:0.02091, n_changed_assignment:1588, time:4358.071
+iter 6," acc, nmi, ri = (0.95427, 0.89891, 0.01114)", loss:0.01114, n_changed_assignment:1302, time:4370.778
+iter 7," acc, nmi, ri = (0.95487, 0.90189, 0.01198)", loss:0.01198, n_changed_assignment:916, time:4383.352
+iter 8," acc, nmi, ri = (0.95766, 0.90712, 0.01287)", loss:0.01287, n_changed_assignment:994, time:4404.412
+iter 9," acc, nmi, ri = (0.95974, 0.91006, 0.0092)", loss:0.00920, n_changed_assignment:792, time:4416.448
+iter 10," acc, nmi, ri = (0.95869, 0.90852, 0.00397)", loss:0.00397, n_changed_assignment:498, time:4434.338
+iter 11," acc, nmi, ri = (0.9591, 0.90961, 0.00921)", loss:0.00921, n_changed_assignment:378, time:4446.714
+iter 12," acc, nmi, ri = (0.96043, 0.91222, 0.00735)", loss:0.00735, n_changed_assignment:261, time:4464.008
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-11 21:28:53
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-11 21:30:42
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-11 21:38:42
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-11 21:39:54
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-11 21:56:35
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-11 22:02:05
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-12 00:05:19
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-12 00:23:12
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-12 01:58:16
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 12:10:57
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 12:46:25
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 14:37:41
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 14:42:50
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 14:43:38
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 14:54:26
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 14:54:44
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 14:54:58
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 14:56:10
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 15:37:22
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 20:59:20
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 21:05:58
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 21:37:29
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2022-12-16 22:54:45

@@ -1,0 +1,13 @@
+iter 0," acc, nmi, ri = (0.52071, 0.54401, 0.0)", loss:0.00000, n_changed_assignment:70000, time:351.310
+iter 0," acc, nmi, ri = (0.52756, 0.51822, 0.0)", loss:0.00000, n_changed_assignment:70000, time:348.112
+iter 1," acc, nmi, ri = (0.53267, 0.52068, 0.00028)", loss:0.00028, n_changed_assignment:1985, time:352.004
+iter 2," acc, nmi, ri = (0.53193, 0.51998, 0.00022)", loss:0.00022, n_changed_assignment:735, time:353.884
+iter 3," acc, nmi, ri = (0.53196, 0.52103, 0.00017)", loss:0.00017, n_changed_assignment:689, time:356.245
+iter 4," acc, nmi, ri = (0.5325, 0.52019, 0.00015)", loss:0.00015, n_changed_assignment:525, time:358.130
+iter 5," acc, nmi, ri = (0.53357, 0.52046, 0.00013)", loss:0.00013, n_changed_assignment:494, time:360.110
+iter 6," acc, nmi, ri = (0.53304, 0.51952, 0.00016)", loss:0.00016, n_changed_assignment:670, time:361.784
+iter 7," acc, nmi, ri = (0.53437, 0.52033, 0.00016)", loss:0.00016, n_changed_assignment:483, time:363.381
+iter 8," acc, nmi, ri = (0.53609, 0.52182, 0.00015)", loss:0.00015, n_changed_assignment:405, time:364.983
+iter 9," acc, nmi, ri = (0.53644, 0.52176, 1e-04)", loss:0.00010, n_changed_assignment:427, time:366.583
+iter 10," acc, nmi, ri = (0.53777, 0.52246, 9e-05)", loss:0.00009, n_changed_assignment:427, time:368.213
+iter 11," acc, nmi, ri = (0.53809, 0.52269, 0.00015)", loss:0.00015, n_changed_assignment:345, time:369.818
